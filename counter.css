@@ -1,0 +1,30 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#countlbl{
+    display :block;
+    text-align: center;
+    font-size: 50px;
+
+}
+
+#incresebtn{
+    display: flex;
+    gap: 10px; /* Add some space between buttons */
+
+
+}
+#recresebtn{
+    display: flex;
+    gap: 10px; /* Add some space between buttons */
+
+}
+#decresebtn{
+    display: flex;
+    gap: 10px; /* Add some space between buttons */
+
+}
